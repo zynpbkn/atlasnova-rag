@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+Plaintext
+# Python derleme ve geçici dosyaları
+*.py[cod]
+__pycache__/
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Sanal ortamlar (Virtual Environments)
+.venv/
+env/
+venv/
+
+# Hassas ortam değişkenleri (API Keys)
+.env
+.env.*
+
+# Vektör veritabanı ve yerel veriler
+chroma_db/
+
+# IDE / Editör ayarları
+.vscode/
+.idea/
